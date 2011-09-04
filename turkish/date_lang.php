@@ -14,6 +14,7 @@ $lang['date_minute'] = 'Dakika';
 $lang['date_minutes'] = 'Dakika';
 $lang['date_second'] = 'Saniye';
 $lang['date_seconds'] = 'Saniye';
+
 $lang['UM12'] = '(UTC -12:00) Baker/Howland Adası';
 $lang['UM11'] = '(UTC -11:00) Samoa Saati, Niue';
 $lang['UM10'] = '(UTC -10:00) Hawaii-Aleutian Standart Saati, Cook Adaları, Tahiti';
